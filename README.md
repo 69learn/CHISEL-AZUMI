@@ -50,7 +50,7 @@ journalctl -u servicename.service
  ------------------------------------------------------
   <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/ability.png" alt="Image"> </strong>آپدیت</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/product-review.png" width="40" alt="Image"> </strong>آپدیت</summary>
   
   
 ------------------------------------ 
