@@ -11,6 +11,7 @@
 
 
 **امکانات**
+-----------------------
 <div align="right">
     <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/ability.png" alt="Video Title" width="100">
   </a>
