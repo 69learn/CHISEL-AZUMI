@@ -12,7 +12,7 @@
 
 **امکانات**
 <div align="right">
-    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/project-management.png" alt="Video Title" width="100">
+    <img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/ability.png" alt="Video Title" width="100">
   </a>
 </div>
   </details>
@@ -50,7 +50,7 @@ journalctl -u servicename.service
  ------------------------------------------------------
   <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Chisel_multipleServers/assets/119934376/b3cfa22a-752d-4f73-896d-dbaeed8b84e6" alt="Image"> </strong>آپدیت</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/ability.png" alt="Image"> </strong>آپدیت</summary>
   
   
 ------------------------------------ 
