@@ -50,7 +50,7 @@ journalctl -u servicename.service
  ------------------------------------------------------
   <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/product-review.png" width="40" alt="Image"> </strong>آپدیت</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/update.png" width="40" alt="Image"> </strong>آپدیت</summary>
   
   
 ------------------------------------ 
@@ -90,7 +90,7 @@ journalctl -u servicename.service
 
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/Chisel_multipleServers/assets/119934376/83d62574-74f2-4e19-bb09-e84e85de9e0b" alt="Image"> </strong>نکات</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/warning.png" width="40" alt="Image"> </strong>نکات</summary>
 
 - میتوانید از طریق tail /var/log/syslog درستی عملکرد cron را ببینید.
 - این اسکریپت بارها تست شده و تمام گزینه هایش بدون مشکل کار میکند. سرویس ها هم ساخته میشود و کانفیگی هم از بین نمیرود. شما اختلال خود را با دستورات پایین بیابید
@@ -129,7 +129,7 @@ journalctl -u servicename.service
 ------------------------
  <div align="right">
   <details>
-    <summary><strong><img src="https://github.com/Azumi67/V2ray_loadbalance_multipleServers/assets/119934376/98d8c2bd-c9d2-4ecf-8db9-246b90e1ef0f" alt="Image"> </strong>پیش نیازها</summary>
+    <summary><strong><img src="https://github.com/69learn/6to4-azumi/blob/main/assets/119934376/guidelines.png" width="40" alt="Image"> </strong>پیش نیازها</summary>
   
   
 ------------------------------------ 
